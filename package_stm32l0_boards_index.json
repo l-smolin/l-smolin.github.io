@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/0.0.10.tar.gz",
           "archiveFileName": "ArduinoCore-stm32l0-0.0.10.tar.gz",
-          "checksum": "MD5:bb32d9614aeae845775c04f42a5a3a21",
+          "checksum": "MD5:eecfd6198fa454b6dbc3149b2eebec3f",
           "size": "10260893",
           "boards": [
             {"name": "Grasshopper-L082CZ"},
