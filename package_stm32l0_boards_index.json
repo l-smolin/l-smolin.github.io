@@ -1,0 +1,40 @@
+{
+  "packages": [
+    {
+      "name": "CMWX1ZZABZ",
+      "maintainer": "Pip, LLC",
+      "websiteURL": "https://github.com/l-smolin/ArduinoCore-stm32l0",
+      "email": "levi.smolin@piptechnologies.com",
+      "help": {
+        "online": "https://github.com/l-smolin/ArduinoCore-stm32l0/issues"
+      },
+      "platforms": [
+        {
+          "name": "CMWX1ZZABZ",
+          "architecture": "stm32l0",
+          "version": "0.0.3",
+          "category": "Contributed",
+          "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/0.0.11.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-0.0.11.tar.gz",
+          "checksum": "MD5:a72afbc167c04e4370f84e552ebb1216",
+          "size": "8803939",
+          "boards": [
+            {"name": "Grasshopper-L082CZ"},
+            {"name": "Cricket-L082CZ"},
+            {"name": "Cicada-L082CZ"},
+            {"name": "B-L072Z-LRWAN1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
