@@ -36,7 +36,7 @@
         {
           "name": "CMWX1ZZABZ",
           "architecture": "stm32l0",
-          "version": "v0.0.12",
+          "version": "0.0.12",
           "category": "Contributed",
           "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/v0.0.12.tar.gz",
           "archiveFileName": "ArduinoCore-stm32l0-0.0.12.tar.gz",
