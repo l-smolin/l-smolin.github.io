@@ -12,30 +12,6 @@
         {
           "name": "CMWX1ZZABZ",
           "architecture": "stm32l0",
-          "version": "0.0.11",
-          "category": "Contributed",
-          "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/0.0.11.tar.gz",
-          "archiveFileName": "ArduinoCore-stm32l0-0.0.11.tar.gz",
-          "checksum": "MD5:bb32d9614aeae845775c04f42a5a3a21",
-          "size": "10260893",
-          "boards": [
-            {"name": "Grasshopper-L082CZ"},
-            {"name": "Cricket-L082CZ"},
-            {"name": "Cicada-L082CZ"},
-            {"name": "B-L072Z-LRWAN1"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "4.8.3-2014q1"
-            }
-          ]
-        },
-
-        {
-          "name": "CMWX1ZZABZ",
-          "architecture": "stm32l0",
           "version": "0.0.12",
           "category": "Contributed",
           "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/v0.0.12.tar.gz",
