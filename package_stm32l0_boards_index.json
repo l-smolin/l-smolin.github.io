@@ -12,12 +12,12 @@
         {
           "name": "CMWX1ZZABZ",
           "architecture": "stm32l0",
-          "version": "0.0.13",
+          "version": "0.0.14",
           "category": "Contributed",
-          "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/0.0.13.tar.gz",
-          "archiveFileName": "ArduinoCore-stm32l0-0.0.12.tar.gz",
-          "checksum": "MD5:dd31d1be1b91a653e932f06abf1563bf",
-          "size": "10653522",
+          "url": "https://github.com/l-smolin/ArduinoCore-stm32l0/archive/0.0.14.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-0.0.14.tar.gz",
+          "checksum": "MD5:6192a50f3e162f645e7f92cf51857437",
+          "size": "10652342",
           "boards": [
             {"name": "Grasshopper-L082CZ"},
             {"name": "Cricket-L082CZ"},
